@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/nikolastojak5/AgentHubPrisonLife/main/AgentHub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nikolastojak5/AgentHubPrisonLife/main/AgentHub"))()
